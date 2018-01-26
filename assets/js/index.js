@@ -1,5 +1,6 @@
 'use strict';
 
+/*
 // Creamos una variable para el contenedor de mi demo
 const imageContainer = document.getElementById('container');
 const image = document.createElement('img'); // Creamos un elemento img para la imagen de prueba
@@ -42,3 +43,9 @@ const blackAndWhite = btnBlackAndWhite.addEventListener('click', () => {
 const saturation = btnSaturation.addEventListener('click', () => {  
   image.setAttribute('style', 'filter: saturate(180%)');
 });
+
+const sepia = document.getElementById('sepia');
+const blackAndWhite = document.getElementById('blackAndWhite');
+const saturation = document.getElementById('saturation');
+*/
+
