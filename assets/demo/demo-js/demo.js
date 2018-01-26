@@ -1,11 +1,10 @@
 'use strict';
 
-/*
 // Creamos una variable para el contenedor de mi demo
 const imageContainer = document.getElementById('container');
 const image = document.createElement('img'); // Creamos un elemento img para la imagen de prueba
 image.setAttribute('id', 'myImage'); // Asignamos atributo id a la imagen
-image.setAttribute('src', 'assets/img/img2.jpg');
+image.setAttribute('src', 'images/img2.jpg');
 imageContainer.appendChild(image); // Al contenedor le asignamos el hijo imagen
 
 // Variable para el botón con filtro sepia
@@ -44,8 +43,4 @@ const saturation = btnSaturation.addEventListener('click', () => {
   image.setAttribute('style', 'filter: saturate(180%)');
 });
 
-const sepia = document.getElementById('sepia');
-const blackAndWhite = document.getElementById('blackAndWhite');
-const saturation = document.getElementById('saturation');
-*/
 
