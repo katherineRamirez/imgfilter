@@ -1,3 +1,4 @@
+'use strict';
 function cargaFiltro() {
   var sepia = document.getElementById('sepia');
   // si existe el elemento sepia entonces ejecuta el JS que aplica el atributo style al elemento
