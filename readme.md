@@ -1,4 +1,4 @@
-<img src="assets/demo/images/logo.png">
+![logo](assets/demo/images/logo.png)
 
 ## Descripción
 
