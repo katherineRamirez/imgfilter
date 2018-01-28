@@ -26,6 +26,8 @@ Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 ```
 ## Demo
 
+![demo](assets/demo/images/demo.png)
+
 <p align="center">
   <img src="assets/demo/images/demo.png"/>
 </p>
