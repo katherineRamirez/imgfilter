@@ -1,4 +1,6 @@
-![logo](assets/demo/images/logo.png)
+<p align="center">
+  <img src="assets/demo/images/logo.png"/>
+</p>
 
 ## Descripción
 
@@ -12,3 +14,18 @@
 ## ¿Cómo se usa?
 
 ## Ejemplo
+
+Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
+
+```
+<!-- Llama a la función para cargar filtro -->
+<body onload="cargaFiltro();">
+<!-- Id con el filtro y la imagen original -->
+<img id="sepia" src="./image.png"/>
+```
+
+## Colaboradoras
+
+:wink: [Katherine Dangelo](https://github.com/Kdangelo),
+:relaxed: [Katherine Ramirez](https://github.com/katherineRamirez),
+:smile: [Carolina Saavedra](https://github.com/saahub)
