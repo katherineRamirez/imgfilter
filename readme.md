@@ -17,11 +17,12 @@
 
 Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 
+```
 <!-- Llama a la función para cargar filtro -->
 <body onload="cargaFiltro();">
 <!-- Imagen para aplicar filtros -->
 <img id="sepia" src="./image.png"/>
-
+```
 
 ## Colaboradoras
 
