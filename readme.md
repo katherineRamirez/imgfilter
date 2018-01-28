@@ -24,6 +24,9 @@ Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 <!-- Imagen para aplicar filtros -->
 <img id="sepia" src="./image.png"/>
 ```
+## Demo
+
+[Demo ImgFilter](file:///home/laboratoria/Desktop/imgfilter/assets/demo/demo.html)
 
 ## Colaboradoras
 
