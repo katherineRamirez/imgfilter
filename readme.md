@@ -14,3 +14,9 @@
 ## ¿Cómo se usa?
 
 ## Ejemplo
+
+## Colaboradoras
+
+:wink: [Katherine Dangelo](https://github.com/Kdangelo),
+:relaxed: [Katherine Ramirez](https://github.com/katherineRamirez),
+:smile: [Carolina Saavedra](https://github.com/saahub)
