@@ -1,2 +1,14 @@
-# Filter Image Library
-### Ésta librería permite manipular imágenes, mediante la aplicación de filtros básicos aplicados a fotos. Los filtros que usaremos son: sepia, blanco y negro, y saturación.
+<img src="assets/demo/images/logo.png">
+
+## Descripción
+
+**Image Filter** es una pequeña librería para manipular imágenes y te permite aplicar algunos filtros básicos como: 
+- Sepia 
+- Grayscale
+- Saturation
+
+## Instalación
+
+## ¿Cómo se usa?
+
+## Ejemplo
