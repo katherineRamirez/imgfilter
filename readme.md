@@ -26,7 +26,9 @@ Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 ```
 ## Demo
 
-[Demo ImgFilter](file:///home/laboratoria/Desktop/imgfilter/assets/demo/demo.html)
+<p align="center">
+  <img src="assets/demo/images/demo.png"/>
+</p>
 
 ## Colaboradoras
 
