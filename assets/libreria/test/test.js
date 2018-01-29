@@ -1,8 +1,9 @@
-const { assert } = require('chai');
+const { assert } = require('assert');
 const imgFilter = require('../js/filtro.js');
 
 describe('cargaFiltro()', () => {
-	it('checking if sepia is equal to null', () => {
-	assert.equal('sepia == number', false);
+	it('sepia debería ser distinto a null', () => {
+	assert.deepEqual('sepia !== null',true);
 });
+
 });
