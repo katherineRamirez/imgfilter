@@ -6,6 +6,25 @@
 body{
   background: #424242;
 }
+h1{
+  text-align: center;
+  margin-top: 0.90em;
+  color: white;
+  font-size: 3em;
+}
+.original{
+  color: white;
+  margin-top: 1.5em;
+  margin-left: 8em;
+  font-size: 2em;
+}
+.conFiltro{
+  color: white;
+  font-size: 2em;
+  position: relative;
+  left: 26em;
+  bottom: 15.1em;
+}
 img{
   border: 2px solid white;
   width: 42%;
