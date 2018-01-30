@@ -43,5 +43,3 @@ const blackAndWhite = btnBlackAndWhite.addEventListener('click', () => {
 const saturation = btnSaturation.addEventListener('click', () => {  
   image.setAttribute('style', 'filter: saturate(180%)');
 });
-
-
