@@ -2,6 +2,7 @@
 
 // Creamos una variable para el contenedor de mi demo
 const imageContainer = document.getElementById('container');
+
 const image = document.createElement('img'); // Creamos un elemento img para la imagen de prueba
 image.setAttribute('id', 'myImage'); // Asignamos atributo id a la imagen
 image.setAttribute('src', 'images/img2.jpg');
