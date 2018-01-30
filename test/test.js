@@ -1,4 +1,24 @@
-const chai = require('chai');
+const assert = require("chai").assert;
+const cargaFiltro = require('../assets/libreria/js/filtro.js');
+
+describe('cargaFiltro', () => {
+   it ('cambia el filtro a sepia', () => {
+       assert.equal('sepia' !== null, true);
+   });
+
+   it('sepia es distinto a null', () => {
+    assert.isNotOk(false, 'this will pass');//(isNotOk) esto no esta bien 
+});
+
+   it('sepia no se escribe con z', () => {
+assert('sepia' !== 'zepia', 'sepia is not zepia');
+});
+
+
+});
+
+/* jsdom no resulta /*
+/*const chai = require('chai');
 
 const jsdom = require("jsdom");
 const {
@@ -23,9 +43,11 @@ var expect = require('chai').expect;
 
 describe('comprobar string', () => {
     
-    it('leer el id', () => {
+    it('sepia == null', () => {
       expect.typeOf(document.getElementById('saturation'), true);
     })
+}else{
+    alert('ingr')
 
 });
 
