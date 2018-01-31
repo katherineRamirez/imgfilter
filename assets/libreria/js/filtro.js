@@ -1,7 +1,6 @@
 'use strict';
 
 function loadFilter() {
-  
   const sepia = document.getElementById('sepia');
   // si existe el elemento sepia entonces ejecuta el JS que aplica el atributo style al elemento
   if (sepia !== null) {
