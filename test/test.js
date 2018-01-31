@@ -18,7 +18,7 @@ assert('sepia' !== 'zepia', 'sepia is not zepia');
     assert.isOk(true,'this will fail');
 });
 
-   it('saturatiom no es null', () => {
+   it('saturation no es null', () => {
     assert.isNotNull('saturation' == null, true);
 });
 
