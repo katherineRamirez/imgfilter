@@ -25,7 +25,7 @@ con esto podemos ver demos y carpetas
 
 - Para agregar la librería a tu proyecto debemos enlazar el archivo filtro.js ubicado en la carpeta js
 ```
-<script src="aquí va la ruta del archivo filto.js"></script>
+<script src=" **aquí va la ruta del archivo filto.js** "></script>
 ```
 
 ## ¿Cómo se usa?
@@ -48,3 +48,4 @@ Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 :wink: [Katherine Dangelo](https://github.com/Kdangelo),
 :relaxed: [Katherine Ramirez](https://github.com/katherineRamirez),
 :smile: [Carolina Saavedra](https://github.com/saahub)
+```
