@@ -12,8 +12,7 @@
 ## Instalación
 
 ## ¿Cómo se usa?
-
-## Ejemplo
+### Ejemplo
 
 Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 
