@@ -20,12 +20,8 @@ Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 ```
 <!-- Llama a la función para cargar filtro -->
 <body onload="cargaFiltro();">
-<<<<<<< HEAD
-<!-- Id con el filtro y la imagen original -->
-=======
 
 <!-- Imagen para aplicar filtros -->
->>>>>>> upstream/developer2
 <img id="sepia" src="./image.png"/>
 ```
 ## Demo
@@ -38,8 +34,5 @@ Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 
 :wink: [Katherine Dangelo](https://github.com/Kdangelo),
 :relaxed: [Katherine Ramirez](https://github.com/katherineRamirez),
-<<<<<<< HEAD
 :smile: [Carolina Saavedra](https://github.com/saahub)
-=======
-:smile: [Carolina Saavedra](https://github.com/saahub)
->>>>>>> upstream/developer2
+
