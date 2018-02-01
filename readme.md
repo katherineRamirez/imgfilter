@@ -10,10 +10,14 @@
 - Saturation
 
 ## Instalación
+### Pasos:
+
+1. Clonar repositorio  [Katherine Dangelo](https://github.com/Kdangelo/imgfilter),
+2. Copiar solo carpeta libreria en tu proyecto.
+3. En la terminal ejecuta el comando npm install para descargar las dependencias.
 
 ## ¿Cómo se usa?
-
-## Ejemplo
+### Ejemplo
 
 Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 
