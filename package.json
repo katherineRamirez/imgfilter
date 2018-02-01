@@ -1,6 +1,6 @@
 {
   "name": "imgfiltertest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "filter image library",
   "main": "index.js",
   "dependencies": {

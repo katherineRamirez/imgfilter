@@ -11,6 +11,23 @@
 
 ## Instalación
 
+- Usuario debe iniciar su proyecto con el siguiente comando:
+```
+npm init
+```
+con esto creamos nuestro package.json
+
+- Para instalar carpeta imgfiltertest ejecuta el siguiente comando:
+```
+npm install imgfiltertest --save-dev
+```
+con esto podemos ver demos y carpetas
+
+- Para agregar la librería a tu proyecto debemos enlazar el archivo filtro.js ubicado en la carpeta js
+```
+<script src="*aquí va la ruta del archivo filto.js*"></script>
+```
+
 ## ¿Cómo se usa?
 ### Ejemplo
 

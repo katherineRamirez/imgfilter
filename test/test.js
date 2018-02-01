@@ -21,6 +21,7 @@ describe('loadFilter', () => {
   it('saturation no es null', () => {
     assert.isNotNull('saturation' === null, true);
   });
+
 });
 
 
