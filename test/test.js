@@ -26,7 +26,6 @@ describe('loadFilter', () => {
 
 /* jsdom no resulta /*
 /*const chai = require('chai');
-
 const jsdom = require("jsdom");
 const {
    JSDOM
@@ -43,11 +42,8 @@ global.window = window;
 global.navigator = {
     userAgent: 'node.js',
 };
-
 const cargaFiltro = require("../js/filtro.js");
 var expect = require('chai').expect;
-
-
 describe('comprobar string', () => {
     
     it('sepia == null', () => {
@@ -55,20 +51,17 @@ describe('comprobar string', () => {
     })
 }else{
     alert('ingr')
-
 });
-
-
 /*
 describe('comprobar null', () => {
     
     it('leer el id', () => {
         chai.assert.exists(document.getElementById('saturation'));
     })
-
 });
 describe('comprobar null', () => {
     it('debería devolver true si sepia es distinto de null', () => {
         expect(cargaFiltro.extension(), true);
     });*/
+
 
