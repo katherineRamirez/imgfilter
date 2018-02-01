@@ -25,10 +25,7 @@ Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 <img id="sepia" src="./image.png"/>
 ```
 ## Demo
-
-<p align="center">
-  <img src="assets/demo/images/demo.png"/>
-</p>
+![Demo](assets/demo/images/gif-imgFilter.gif)
 
 ## Colaboradoras
 
