@@ -32,14 +32,14 @@ con esto podemos ver demos y carpetas
 ### Ejemplo
 
 Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
-
-
+```
 <!-- Llama a la función para cargar filtro -->
 <body onload="loadFilter();">
 
 <!-- Imagen para aplicar filtros -->
 <img id="sepia" src="./tuImagen.png"/>
 ```
+
 ## Demo
 ![Demo](assets/demo/images/gif-imgFilter.gif)
 
@@ -48,4 +48,3 @@ Para poder aplicar filtros a tus imagenes debes de colocar en tu html:
 :wink: [Katherine Dangelo](https://github.com/Kdangelo),
 :relaxed: [Katherine Ramirez](https://github.com/katherineRamirez),
 :smile: [Carolina Saavedra](https://github.com/saahub)
-```
