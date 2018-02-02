@@ -2,13 +2,14 @@
   <img src="assets/demo/images/logo.png"/>
 </p>
 
-
+<p align="center">
 ![npm](https://img.shields.io/npm/v/npm.svg)
 ![chai](https://img.shields.io/badge/chai-4.1.2-orange.svg)
 ![mocha](https://img.shields.io/badge/mocha-5.0.0-green.svg)
 ![javascript](https://img.shields.io/badge/javascript-es6-ff69b4.svg)
 ![node](https://img.shields.io/badge/nodejs-v8.9.4-red.svg)
 ![node](https://img.shields.io/badge/contributors-3-brightgreen.svg)
+</p> 
 
 
 ## Descripción
