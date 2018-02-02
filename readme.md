@@ -2,7 +2,7 @@
   <img src="assets/demo/images/logo.png"/>
 </p>
 
-  ![npm](https://img.shields.io/npm/v/npm.svg)
+![npm](https://img.shields.io/npm/v/npm.svg)
 ![chai](https://img.shields.io/badge/chai-4.1.2-orange.svg)
 ![mocha](https://img.shields.io/badge/mocha-5.0.0-green.svg)
 ![javascript](https://img.shields.io/badge/javascript-es6-ff69b4.svg)
