@@ -4,6 +4,9 @@
 
 
 ![npm](https://img.shields.io/npm/v/npm.svg)
+![chai](https://img.shields.io/badge/chai-4.1.2-orange.svg)
+![npm](https://img.shields.io/npm/v/npm.svg)
+
 
 ## Descripción
 
