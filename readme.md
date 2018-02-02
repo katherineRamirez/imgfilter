@@ -2,6 +2,9 @@
   <img src="assets/demo/images/logo.png"/>
 </p>
 
+
+![npm](https://img.shields.io/npm/v/npm.svg)
+
 ## Descripción
 
 **Image Filter** es una pequeña librería para manipular imágenes y te permite aplicar algunos filtros básicos como: 
