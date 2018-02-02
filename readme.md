@@ -2,6 +2,13 @@
   <img src="assets/demo/images/logo.png"/>
 </p>
 
+![npm](https://img.shields.io/npm/v/npm.svg)
+![chai](https://img.shields.io/badge/chai-4.1.2-orange.svg)
+![mocha](https://img.shields.io/badge/mocha-5.0.0-green.svg)
+![javascript](https://img.shields.io/badge/javascript-es6-ff69b4.svg)
+![node](https://img.shields.io/badge/nodejs-v8.9.4-red.svg)
+![node](https://img.shields.io/badge/contributors-3-brightgreen.svg)
+
 ## Descripción
 
 **Image Filter** es una pequeña librería para manipular imágenes y te permite aplicar algunos filtros básicos como: 
@@ -23,7 +30,7 @@ npm install imgfiltertest --save
 ```
 con esto podemos ver demos y carpetas
 
-- Para agregar la librería a tu proyecto debemos enlazar el archivo filtro.js ubicado en la carpeta js
+- Para agregar la librería a tu proyecto debemos enlazar el archivo filtro.js a tu HTML con el siguiente script
 ```
 <script src="node_modules/imgfiltertest/assets/libreria/js/filtro.js"></script>
 ```
