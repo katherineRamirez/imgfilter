@@ -2,6 +2,8 @@
   <img src="assets/demo/images/logo.png"/>
 </p>
 
+![image](https://user-images.githubusercontent.com/30607043/37958663-729d61dc-3187-11e8-916c-477ba59e9d28.png)
+
 ![npm](https://img.shields.io/npm/v/npm.svg)
 ![chai](https://img.shields.io/badge/chai-4.1.2-orange.svg)
 ![mocha](https://img.shields.io/badge/mocha-5.0.0-green.svg)
